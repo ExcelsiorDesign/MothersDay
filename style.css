@@ -1,0 +1,29 @@
+h1{
+    color: #FFB000;
+    text-align: center;
+    background-color: #FFE3A4;
+    margin-right: 20%;
+    margin-left: 20%;
+    font-size: 4em;
+    margin: 0em 10% 0em 10%;
+    padding: 2%;
+    overflow: auto;
+}
+h2{
+    color: #FFB000;
+    text-align: center;
+    background-color: #FFD370;
+    font-size: 4em;
+    margin: 0em 25% 0em 25%;
+    padding: 2%;
+    overflow: auto;
+}
+body{
+	text-align: center;
+	background-color: #FFB000;
+}
+
+#swagga {
+	font-family: sans-serif;
+	font-size: 50px;
+}
